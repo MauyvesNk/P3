@@ -1,18 +1,21 @@
-OPENCLASSROOMS 
+Ecole de formation : OpenClassRooms 
 
-PROJET 3 : CONCEVEZ UNE APPLICATION AU SERVICE DE LA SANTÉ PUBLIQUE
+
+PROJET 3 : " CONCEVEZ UNE APPLICATION AU SERVICE DE LA SANTÉ PUBLIQUE "
 
 
 Problématique :
+
 répondre à l’appel à projets lancé par Santé publique France pour trouver des idées innovantes d’applications en lien avec l’alimentation.
 
 
-Sommaire
-Présentation de l'idée d’application 
+SOMMAIRE :
 
-Nettoyage de données 
+- Présentation de l'idée d’application 
 
-Analyse Exploration 
+- Nettoyage de données 
 
-Conclusion 
+- Analyse Exploration 
+
+- Conclusion 
 
